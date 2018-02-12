@@ -1,4 +1,4 @@
-# My-Personal-Website
-my personal website
-Hey, my name is Mingyang Ye.
-Here is my code of website.
+# Personal-Website
+My personal website
+Hi, my name is Mingyang Ye.
+This is the code of my personal website!
